@@ -1,0 +1,52 @@
+@import "abstracts/variables";
+@import "base/base";
+@import "base/helper";
+
+
+
+@import "layout/header";
+@import "layout/footer";
+
+
+
+@import "components/addBio";
+@import "components/avatar";
+
+@import "components/btn";
+
+@import "components/createNewPost";
+
+@import "components/feed";
+@import "components/feedPost";
+@import "components/feedPostOption";
+@import "components/fillScreen";
+@import "components/form";
+
+@import "components/imageUploader";
+@import "components/loading";
+@import "components/message";
+@import "components/messangerHeader";
+@import "components/modal";
+@import "components/nameDisplay";
+@import "components/notificationPopup";
+
+
+@import "components/person";
+@import "components/postComment";
+@import "components/profileHeader";
+
+
+@import "components/sidebar";
+@import "components/sidebarInfo";
+
+
+
+@import "components/textEditor";
+
+
+@import "components/showResponse";
+
+@import "pages/home";
+@import "pages/messanger";
+@import "components/mainPage";
+
